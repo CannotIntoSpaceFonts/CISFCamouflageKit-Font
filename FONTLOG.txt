@@ -1,0 +1,5 @@
+Updated to version 1.27 on July 19, 2015 by Jasper @ Cannot Into Space Fonts.
+
+Changelog:
+
+New character designs added to lowercase as a replacement for having same designs for both uppercase and lowercase alphabet.

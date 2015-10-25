@@ -1,0 +1,3 @@
+This is a dingbat Camouflage Font. I designed this to be useful for making custom Camouflage patterns.
+
+Unified Font Object (UFO) and FontForge SFD source files are included.
